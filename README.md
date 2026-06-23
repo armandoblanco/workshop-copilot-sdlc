@@ -1,4 +1,4 @@
-# 🏥 Workshop: GitHub Copilot SDLC E2E — Contoso Seguros CR
+# Workshop: GitHub Copilot SDLC E2E — Contoso Seguros CR
 
 ## De la Historia de Usuario al Código en Producción con Agentes Especializados
 
@@ -111,7 +111,7 @@ git --version
 
 ```bash
 # Clonar el repositorio
-git clone <url-del-repo>
+git clone https://github.com/armandoblanco/workshop-copilot-sdlc-tico.git
 cd workshop-copilot-sdlc-tico
 
 # Restaurar dependencias y compilar
