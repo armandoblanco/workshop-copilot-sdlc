@@ -111,8 +111,8 @@ git --version
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/armandoblanco/workshop-copilot-sdlc-tico.git
-cd workshop-copilot-sdlc-tico
+git clone https://github.com/armandoblanco/workshop-copilot-sdlc.git
+cd workshop-copilot-sdlc
 
 # Restaurar dependencias y compilar
 dotnet build
