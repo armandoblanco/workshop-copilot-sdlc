@@ -1,0 +1,32 @@
+## .NET
+*.user
+*.suo
+*.cache
+*.pidb
+*.userprefs
+*.usertasks
+.vs/
+bin/
+obj/
+TestResults/
+[Bb]in/
+[Oo]bj/
+*.log
+
+## NuGet
+*.nupkg
+.nuget/
+packages/
+!packages/repositories.config
+*.lock.json
+
+## IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+## OS
+.DS_Store
+Thumbs.db
